@@ -12,7 +12,7 @@ Trabalho com backend há 13 anos e, nos últimos, com IA aplicada a produto: age
 
 ## Stack
 
-| | |
+| camada | ferramentas |
 |---|---|
 | **Backend** | <img alt="Python" src="https://img.shields.io/badge/Python-0b6b62?style=flat-square&logo=python&logoColor=white"> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0b6b62?style=flat-square&logo=fastapi&logoColor=white"> <img alt="SQLAlchemy 2.0" src="https://img.shields.io/badge/SQLAlchemy%202.0-0b6b62?style=flat-square&logo=sqlalchemy&logoColor=white"> <img alt="Pydantic v2" src="https://img.shields.io/badge/Pydantic%20v2-0b6b62?style=flat-square&logo=pydantic&logoColor=white"> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0b6b62?style=flat-square&logo=nodedotjs&logoColor=white"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0b6b62?style=flat-square&logo=typescript&logoColor=white"> <img alt="Java" src="https://img.shields.io/badge/Java-0b6b62?style=flat-square&logo=openjdk&logoColor=white"> |
 | **IA aplicada** | <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-0b6b62?style=flat-square&logo=langgraph&logoColor=white"> <img alt="LangChain" src="https://img.shields.io/badge/LangChain-0b6b62?style=flat-square&logo=langchain&logoColor=white"> <img alt="Google ADK" src="https://img.shields.io/badge/Google%20ADK-0b6b62?style=flat-square&logo=google&logoColor=white"> <img alt="LiteLLM" src="https://img.shields.io/badge/LiteLLM-0b6b62?style=flat-square"> <img alt="MCP" src="https://img.shields.io/badge/MCP-0b6b62?style=flat-square&logo=modelcontextprotocol&logoColor=white"> <img alt="Ragas e DeepEval" src="https://img.shields.io/badge/Ragas%20e%20DeepEval-0b6b62?style=flat-square"> |
