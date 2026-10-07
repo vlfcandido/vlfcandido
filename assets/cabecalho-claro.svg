@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Vinicius Candido, engenheiro de software: backend Python e IA aplicada">
+  <defs><clipPath id="c"><rect width="1200" height="240" rx="10"/></clipPath></defs>
+  <g clip-path="url(#c)">
+  <rect width="1200" height="240" rx="10" fill="#f6f5f1"/>
+  <rect x="0" y="0" width="8" height="240" fill="#0b6b62"/>
+  <g transform="translate(64 0)">
+    <text x="0" y="78" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" letter-spacing="1.5" fill="#0b6b62">ENGENHEIRO DE SOFTWARE · 13 ANOS</text>
+    <text x="0" y="134" font-family="'IBM Plex Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="52" font-weight="600" fill="#1a1c1e">Vinicius Candido</text>
+    <text x="0" y="178" font-family="'IBM Plex Sans', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#53575c">Backend em Python e Node, IA aplicada a produto e chatbots de atendimento.</text>
+  </g>
+  <g font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#53575c" text-anchor="end">
+    <text x="1150" y="78">vlfcandido.github.io</text>
+  </g>
+  <line x1="64" y1="206" x2="1150" y2="206" stroke="#d9d7d0" stroke-width="1"/>
+  </g>
+</svg>

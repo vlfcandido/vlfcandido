@@ -1,54 +1,56 @@
-# Vinicius Candido
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/cabecalho-escuro.svg">
+  <img alt="Vinicius Candido, engenheiro de software: backend em Python e Node, IA aplicada a produto e chatbots de atendimento" src="assets/cabecalho-claro.svg" width="100%">
+</picture>
 
-Engenheiro de software sênior, 13 anos de estrada. Trabalho majoritariamente no backend
-e, nos últimos anos, em IA aplicada a produto — agentes, RAG e avaliação de LLM — sempre
-com a disciplina de quem já manteve sistema em produção: teste, observabilidade e
-isolamento antes de esperteza.
+<p>
+  <a href="https://vlfcandido.github.io"><img alt="Portfólio" src="https://img.shields.io/badge/portf%C3%B3lio-vlfcandido.github.io-0b6b62?style=flat-square"></a>
+  <a href="https://www.linkedin.com/in/viniciusf-candido"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-viniciusf--candido-0b6b62?style=flat-square&logo=linkedin&logoColor=white"></a>
+</p>
 
-## No que trabalho
+Trabalho com backend há 13 anos e, nos últimos, com IA aplicada a produto: agentes, RAG e avaliação de LLM. Levo para isso o hábito de quem mantém sistema em produção: teste automatizado, observabilidade, segredo fora do código e nenhum efeito colateral no import.
 
-- **Backend** — Python (FastAPI, SQLAlchemy 2.0, Pydantic v2), Node e Java. APIs REST,
-  modelagem de dados, concorrência e async, filas e integrações.
-- **IA aplicada** — agentes com LangChain/LangGraph, RAG (chunking, embeddings, busca
-  vetorial com pgvector), MCP e avaliação automática de qualidade (LLM-as-judge, Ragas,
-  DeepEval, LangSmith). Interesse real pelo que dá para medir, não pelo hype.
-- **Chatbots e WhatsApp** — automação de atendimento e pedidos, roteamento por LLM,
-  transbordo humano, catálogo no prompt.
-- **Segurança** — modelagem de ameaças no dia a dia do backend: autenticação, gestão de
-  segredos, superfície de ataque, least privilege.
+## Stack
 
-## Como gosto de trabalhar
+| | |
+|---|---|
+| **Backend** | <img alt="Python" src="https://img.shields.io/badge/Python-0b6b62?style=flat-square&logo=python&logoColor=white"> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0b6b62?style=flat-square&logo=fastapi&logoColor=white"> <img alt="SQLAlchemy 2.0" src="https://img.shields.io/badge/SQLAlchemy%202.0-0b6b62?style=flat-square&logo=sqlalchemy&logoColor=white"> <img alt="Pydantic v2" src="https://img.shields.io/badge/Pydantic%20v2-0b6b62?style=flat-square&logo=pydantic&logoColor=white"> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0b6b62?style=flat-square&logo=nodedotjs&logoColor=white"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0b6b62?style=flat-square&logo=typescript&logoColor=white"> <img alt="Java" src="https://img.shields.io/badge/Java-0b6b62?style=flat-square&logo=openjdk&logoColor=white"> |
+| **IA aplicada** | <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-0b6b62?style=flat-square&logo=langgraph&logoColor=white"> <img alt="LangChain" src="https://img.shields.io/badge/LangChain-0b6b62?style=flat-square&logo=langchain&logoColor=white"> <img alt="Google ADK" src="https://img.shields.io/badge/Google%20ADK-0b6b62?style=flat-square&logo=google&logoColor=white"> <img alt="LiteLLM" src="https://img.shields.io/badge/LiteLLM-0b6b62?style=flat-square"> <img alt="MCP" src="https://img.shields.io/badge/MCP-0b6b62?style=flat-square&logo=modelcontextprotocol&logoColor=white"> <img alt="Ragas e DeepEval" src="https://img.shields.io/badge/Ragas%20e%20DeepEval-0b6b62?style=flat-square"> |
+| **Dados** | <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0b6b62?style=flat-square&logo=postgresql&logoColor=white"> <img alt="pgvector" src="https://img.shields.io/badge/pgvector-0b6b62?style=flat-square&logo=postgresql&logoColor=white"> <img alt="Redis" src="https://img.shields.io/badge/Redis-0b6b62?style=flat-square&logo=redis&logoColor=white"> <img alt="SQLite" src="https://img.shields.io/badge/SQLite-0b6b62?style=flat-square&logo=sqlite&logoColor=white"> |
+| **Infra** | <img alt="Docker" src="https://img.shields.io/badge/Docker-0b6b62?style=flat-square&logo=docker&logoColor=white"> <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-0b6b62?style=flat-square&logo=googlecloud&logoColor=white"> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-0b6b62?style=flat-square&logo=githubactions&logoColor=white"> <img alt="Firebase" src="https://img.shields.io/badge/Firebase-0b6b62?style=flat-square&logo=firebase&logoColor=white"> |
+| **Atendimento** | <img alt="WhatsApp Cloud API" src="https://img.shields.io/badge/WhatsApp%20Cloud%20API-0b6b62?style=flat-square&logo=whatsapp&logoColor=white"> <img alt="Chatbots" src="https://img.shields.io/badge/Chatbots-0b6b62?style=flat-square"> |
 
-Código comentado e tipado, função pública com docstring, nenhum efeito colateral no
-import. Decisão baseada em documentação oficial, não em chute. Teste automatizado como
-parte do entregável, não como enfeite.
+## Projetos em destaque
 
-## Projetos públicos
+| projeto | o que é | stack |
+|---|---|---|
+| [**aprovaos**](https://github.com/vlfcandido/aprovaos) | Agente que conduz o estudo para concursos: diagnóstico, trilha, questões no estilo da banca e revisão espaçada. 1.622 testes. | FastAPI, SQLAlchemy 2.0, Pydantic |
+| [**nexus-clips**](https://github.com/vlfcandido/nexus-clips) | Agente que monitora fontes, escolhe o assunto e gera cortes de vídeo com legenda e narração. | LangGraph, FastAPI, React |
+| [**revisor-ia**](https://github.com/vlfcandido/revisor-ia) | Revisor de código em que cada resposta da IA é medida, não só gerada. | LangGraph, RAG, pgvector, MCP, Ragas |
+| [**varredura-voos**](https://github.com/vlfcandido/varredura-voos) | Busca de passagens que ordena por duração total da viagem, não só por preço. 109 testes. | Python 3.13, httpx, Amadeus |
+| [**engenharia-de-agentes**](https://github.com/vlfcandido/engenharia-de-agentes) | O mesmo agente em Pydantic puro, LangGraph e Google ADK, mais versões multiagente. Roda offline. | Pydantic, LangGraph, Google ADK |
+| [**bot-pedidos-whatsapp-llm**](https://github.com/vlfcandido/bot-pedidos-whatsapp-llm) | Bot de pedidos por WhatsApp com roteador LLM, tools tipadas e transbordo humano (MVP). | Flask, SQLAlchemy, Postgres |
 
-- **[aprovaos](https://github.com/vlfcandido/aprovaos)** — plataforma de estudo para
-  concursos com IA: diagnóstico, trilha, questões inéditas no estilo da banca e revisão
-  espaçada. Backend FastAPI com suíte de testes grande.
-- **[nexus-clips](https://github.com/vlfcandido/nexus-clips)** — agente autônomo que
-  monitora fontes, detecta momentos relevantes e gera cortes para redes sociais.
-  Pipeline em LangGraph, dashboard em React.
-- **[revisor-ia](https://github.com/vlfcandido/revisor-ia)** — revisor de código com IA
-  reunindo LangGraph, RAG com pgvector, MCP e avaliação (Ragas/DeepEval). Projeto de
-  estudo, cada módulo cobrindo um conceito de IA de produção.
-- **[varredura-voos](https://github.com/vlfcandido/varredura-voos)** — busca de passagens
-  priorizando duração de viagem, não só preço. Python 3.13, cliente Amadeus, 109 testes.
-- **[agentic-base](https://github.com/vlfcandido/agentic-base)** — projetos-base de
-  engenharia de agentes em stacks diferentes (agente único e multiagente), prontos para
-  rodar com um comando.
-- **[adk-burger-whatsapp-llm](https://github.com/vlfcandido/adk-burger-whatsapp-llm)** —
-  MVP LLM-first de pedidos por WhatsApp: roteador LLM, agentes de cardápio/carrinho/
-  pagamento, tools Pydantic e transbordo humano.
-- **[CTBZ](https://github.com/vlfcandido/CTBZ)** — benchmark em Streamlit comparando
-  LiteLLM SDK e Proxy em cenários de chatbot.
-- **[minu-server](https://github.com/vlfcandido/minu-server)** — template de backend em
-  Hono sobre Firebase Functions.
-- **[moviesTest](https://github.com/vlfcandido/moviesTest)** — API do Golden Raspberry
-  (piores filmes) com testes de integração.
+<details>
+<summary><b>Estudos e exercícios técnicos</b></summary>
 
-## Contato
+<br>
 
-GitHub [@vlfcandido](https://github.com/vlfcandido).
+| projeto | o que é |
+|---|---|
+| [benchmark-litellm-sdk-proxy](https://github.com/vlfcandido/benchmark-litellm-sdk-proxy) | Latência, TTFT, erros e custo do LiteLLM SDK contra o LiteLLM Proxy, com painel em Streamlit. |
+| [api-intervalo-premios-filmes](https://github.com/vlfcandido/api-intervalo-premios-filmes) | API REST que calcula o menor e o maior intervalo entre prêmios de produtores a partir de um CSV. |
+| [previsao-tempo-chatbot](https://github.com/vlfcandido/previsao-tempo-chatbot) | Microserviço que reduz a previsão de três dias da WeatherAPI ao JSON que um chatbot exibe. |
+
+</details>
+
+## Como trabalho
+
+- Decisão baseada na documentação oficial, registrada por escrito quando muda a arquitetura.
+- Teste automatizado faz parte da entrega; o número de testes nos READMEs é o da última execução.
+- Função pública com docstring, código tipado, configuração e segredo pelo ambiente.
+- Com IA, o que conta é o que dá para medir: avaliação automática antes de trocar prompt ou modelo.
+
+---
+
+<sub>Mais detalhes, cases e contato em <a href="https://vlfcandido.github.io">vlfcandido.github.io</a>.</sub>
