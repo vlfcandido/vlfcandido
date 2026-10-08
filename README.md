@@ -40,8 +40,8 @@ Uma pergunta, o especialista certo: cada assunto vai para o agente que sabe resp
 </tr>
 <tr>
 <td valign="top">
-<a href="https://github.com/vlfcandido/bot-pedidos-whatsapp-llm"><img src="assets/prints/bot-pedidos-whatsapp-llm.jpg" alt="Conversa de pedido no WhatsApp atendida pelo bot"></a>
-<p><a href="https://github.com/vlfcandido/bot-pedidos-whatsapp-llm"><b>bot-pedidos-whatsapp-llm</b></a><br>Pedidos por WhatsApp com roteador LLM, agentes com tools tipadas e transbordo para humano.</p>
+<a href="https://vlfcandido.github.io/#/projetos"><img src="assets/prints/engenharia-de-agentes.jpg" alt="Diagrama de agentes de IA"></a>
+<p><a href="https://vlfcandido.github.io/#/projetos"><b>Mais projetos no portfólio</b></a><br>Projetos liderados para clientes, diagramas de arquitetura e como eu monto agentes de IA.</p>
 </td>
 <td valign="top">
 <a href="https://github.com/vlfcandido/revisor-ia"><img src="assets/prints/revisor-ia.jpg" alt="Relatório do revisor de código com a nota da avaliação"></a>
