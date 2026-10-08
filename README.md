@@ -1,7 +1,4 @@
-<a href="https://www.linkedin.com/in/viniciusf-candido"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/cabecalho-escuro.svg">
-  <img alt="Vinicius Candido. O problema de software do seu negócio nas mãos de quem constrói IA no Sicoob. Integro sistemas e CRM, crio APIs, automatizo o trabalho repetido e conserto o que travou. Preço fechado antes de começar. Carta náutica com seis boias na costa: integração e CRM; trabalho repetido; sistema que travou ou ninguém entende; sistema ou API sob medida; painéis, sistemas web e sites; atendimento com IA no WhatsApp." src="assets/cabecalho-claro.svg" width="100%">
-</picture></a>
+<a href="https://www.linkedin.com/in/viniciusf-candido"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cabecalho-escuro.svg"><img alt="Vinicius Candido. O problema de software do seu negócio nas mãos de quem constrói IA no Sicoob. Integro sistemas e CRM, crio APIs, automatizo o trabalho repetido e conserto o que travou. Preço fechado antes de começar. Carta náutica com seis boias na costa: integração e CRM; trabalho repetido; sistema que travou ou ninguém entende; sistema ou API sob medida; painéis, sistemas web e sites; atendimento com IA no WhatsApp." src="assets/cabecalho-claro.svg" width="100%"></picture></a>
 
 <p>
 <a href="https://www.linkedin.com/in/viniciusf-candido"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/botao-linkedin-escuro.svg"><img alt="Falar comigo no LinkedIn" src="assets/botao-linkedin-claro.svg" height="46"></picture></a>&nbsp;
