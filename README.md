@@ -123,7 +123,7 @@ No AprovaOS, as telas são em HTMX, com um sistema de componentes documentado e 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-escuro.svg">
-  <img alt="Stack. Back-end: Python, FastAPI, Java, Node.js, TypeScript. Front-end: React, Next.js, Vue.js, Tailwind, design system, acessibilidade. IA: LangGraph, Google ADK, Vertex AI, Gemini, Claude, RAG, MCP. Dados: PostgreSQL, pgvector, Redis, BigQuery. Entrega: GCP, Docker, CI/CD, testes e avaliação de IA." src="assets/stack-claro.svg" width="100%">
+  <img alt="Stack. Back-end: Python, FastAPI, Java, Spring Boot, Node.js, TypeScript. Integração: REST, webhooks, Pub/Sub, Redis Streams, OAuth2, MCP. Front-end: Angular, React, Next.js, Vue.js, Tailwind, design system. IA: LangGraph, Google ADK, Vertex AI, Gemini, Claude, RAG, avaliação de LLM. Dados: PostgreSQL, pgvector, Redis, BigQuery, Firestore. Entrega: GCP, AWS, Docker, Kubernetes, CI/CD, TDD." src="assets/stack-claro.svg" width="100%">
 </picture>
 
 Uma pergunta, o especialista certo: cada assunto vai para o agente que sabe responder, sem um prompt gigante. Uso esse padrão com Google ADK e LangGraph.
