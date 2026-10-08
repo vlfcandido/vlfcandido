@@ -1,6 +1,4 @@
 <a href="https://www.linkedin.com/in/viniciusf-candido"><picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/cabecalho-estreito-escuro.svg">
-  <source media="(max-width: 600px)" srcset="assets/cabecalho-estreito-claro.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/cabecalho-escuro.svg">
   <img alt="Vinicius Candido. O problema de software do seu negócio nas mãos de quem constrói IA no Sicoob. Integro sistemas e CRM, crio APIs, automatizo o trabalho repetido e conserto o que travou. Preço fechado antes de começar. Carta náutica com seis boias na costa: integração e CRM; trabalho repetido; sistema que travou ou ninguém entende; sistema ou API sob medida; painéis, sistemas web e sites; atendimento com IA no WhatsApp." src="assets/cabecalho-claro.svg" width="100%">
 </picture></a>
