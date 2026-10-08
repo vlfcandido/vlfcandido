@@ -1,6 +1,6 @@
 <a href="https://www.linkedin.com/in/viniciusf-candido"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/cabecalho-escuro.svg">
-  <img alt="Vinicius Candido, engenheiro de software sênior: chatbots, automações e sistemas com IA. Falar comigo no LinkedIn" src="assets/cabecalho-claro.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/cabecalho-escuro.jpg">
+  <img alt="Vinicius Candido, engenheiro de software sênior: chatbots, automações e sistemas com IA. Falar comigo no LinkedIn" src="assets/cabecalho-claro.jpg" width="100%">
 </picture></a>
 
 Construo software há 13 anos e IA aplicada em produção desde 2021. Hoje sou engenheiro de IA sênior no Sicoob, onde lidero tecnicamente a frente de IA do assistente de investimentos. Antes, fui arquiteto sênior de IA na Contabilizei, liderei os projetos de chatbot Blip da Vertigo e trabalhei no Waizer, da Wiv.
@@ -15,6 +15,15 @@ Construo software há 13 anos e IA aplicada em produção desde 2021. Hoje sou e
 | Contabilizei | Arquiteto sênior de IA; trabalhei no The Concierge, atendimento com IA generativa em Vertex AI. | [Google Cloud, 20/03/2025](https://blog.google/intl/pt-br/produtos/nas-nuvens/google-cloud-90-casos-de-ia-na-america-latina-que-estao-moldando-o-futuro-da-inovacao/) |
 | Vertigo | Liderei os projetos de chatbot na Blip, de órgãos públicos a grandes empresas. | [case Prefeitura de Franca](https://materiais.vertigo.com.br/case-chatbot-prefeitura-de-franca-estado-de-sao-paulo) |
 | Wiv | Trabalhei no Waizer, que analisa as conversas dos chatbots e aponta onde travam. | [MobileTime, 12/06/2026](https://www.mobiletime.com.br/noticias/12/06/2026/wiv-5-milhoes/) |
+
+## Como eu monto agentes
+
+Uma pergunta, o especialista certo: cada assunto vai para o agente que sabe responder, sem um prompt gigante. Uso esse padrão com Google ADK e LangGraph.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/agentes-roteador-escuro.svg">
+  <img alt="Diagrama: a pergunta chega a um agente roteador, que entende a intenção e passa para o especialista em produtos, dúvidas frequentes ou atendimento; a resposta volta numa voz só" src="assets/agentes-roteador-claro.svg" width="100%">
+</picture>
 
 ## Código aberto
 
