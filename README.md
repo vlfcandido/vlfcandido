@@ -38,45 +38,47 @@ Quanto mais fundo, mais detalhe.
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/vlfcandido/aprovaos"><img src="assets/prints/aprovaos.jpg" alt="Diagnóstico adaptativo do AprovaOS"></a>
-<p><a href="https://github.com/vlfcandido/aprovaos"><b>aprovaos</b></a><br>Agente que conduz o estudo para concursos: diagnóstico, plano do dia, questões no padrão da banca e revisão espaçada.</p>
+<a href="https://vlfcandido.github.io/#/projetos/aprovaos"><img src="assets/capas/aprovaos.jpg" alt="Capa do AprovaOS: plano de estudo adaptativo, com dados fictícios" width="100%"></a>
+<p><a href="https://vlfcandido.github.io/#/projetos/aprovaos"><b>AprovaOS</b></a><br>Plano de estudo que se ajusta ao desempenho de cada aluno.</p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/vlfcandido/revisor-ia"><img src="assets/prints/revisor-ia.jpg" alt="Relatório do revisor de código com a nota da avaliação"></a>
-<p><a href="https://github.com/vlfcandido/revisor-ia"><b>revisor-ia</b></a><br>Revisor de código em que cada resposta da IA é medida: RAG com pgvector, MCP, Ragas e DeepEval.</p>
+<a href="https://vlfcandido.github.io/#/projetos/nexus-quant"><img src="assets/capas/nexus-quant.jpg" alt="Capa do sistema de ordens em tempo real, em simulação, com dados fictícios" width="100%"></a>
+<p><a href="https://vlfcandido.github.io/#/projetos/nexus-quant"><b>Sistema de ordens em tempo real</b></a><br>Confere cada ordem com a corretora, 24 horas. Cripto, só em simulação, sem lucro.</p>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<a href="https://github.com/vlfcandido/engenharia-de-agentes"><img src="assets/prints/engenharia-de-agentes.jpg" alt="O mesmo agente rodando em LangGraph no terminal"></a>
-<p><a href="https://github.com/vlfcandido/engenharia-de-agentes"><b>engenharia-de-agentes</b></a><br>O mesmo agente em Pydantic puro, LangGraph e Google ADK, mais versões multiagente. Roda offline.</p>
+<td width="50%" valign="top">
+<a href="https://vlfcandido.github.io/#/projetos/varredura-voos"><img src="assets/capas/varredura-voos.jpg" alt="Capa da varredura de voos: resultado ordenado por preço dentro de um teto de duração, com dados fictícios" width="100%"></a>
+<p><a href="https://vlfcandido.github.io/#/projetos/varredura-voos"><b>Varredura de voos</b></a><br>Acha a passagem mais barata dentro de um teto de duração, sem estourar a cota da API.</p>
 </td>
-<td valign="top">
-<a href="https://github.com/vlfcandido/nexus-quant-showcase"><img src="assets/prints/nexus-quant.jpg" alt="Painel do sistema de ordens em tempo real, em simulação"></a>
-<p><a href="https://github.com/vlfcandido/nexus-quant-showcase"><b>nexus-quant-showcase</b></a><br>Sistema de ordens em tempo real que confere cada ordem com a corretora, 24 horas. Cripto, só em simulação, sem lucro; a vitrine conta o que deu errado.</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<a href="https://github.com/vlfcandido/benchmark-litellm-sdk-proxy"><img src="assets/prints/benchmark-litellm-sdk-proxy.jpg" alt="Painel do benchmark de latência e custo"></a>
-<p><a href="https://github.com/vlfcandido/benchmark-litellm-sdk-proxy"><b>benchmark-litellm-sdk-proxy</b></a><br>Latência, primeiro token, erros e custo: LiteLLM SDK contra LiteLLM Proxy.</p>
-</td>
-<td valign="top">
-<a href="https://github.com/vlfcandido/varredura-voos"><img src="assets/prints/varredura-voos.jpg" alt="Terminal com a varredura de voos ordenada por duração"></a>
-<p><a href="https://github.com/vlfcandido/varredura-voos"><b>varredura-voos</b></a><br>Busca de passagens que ordena pela duração total da viagem, não só pelo preço.</p>
+<td width="50%" valign="top">
+<a href="https://vlfcandido.github.io/#/projetos/app-score"><img src="assets/capas/app-score.jpg" alt="Capa do app de score de crédito: medidor da nota e explicação do cálculo, com dados fictícios" width="100%"></a>
+<p><a href="https://vlfcandido.github.io/#/projetos/app-score"><b>App de score de crédito</b></a><br>O lojista vê a nota do cliente e entende como ela foi calculada.</p>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<a href="https://vlfcandido.github.io/#/projetos/ia-local"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ia-local-escuro.svg"><img src="assets/ia-local-claro.svg" alt="Carta náutica: farol protegendo o porto, com o fluxo pedido, aprovação humana, execução local e auditoria"></picture></a>
-<p><a href="https://vlfcandido.github.io/#/projetos/ia-local"><b>IA local com humano no circuito</b></a><br>Assistente que roda na própria máquina: o dado não sai, cada ação espera aprovação e fica num log de auditoria. M1 de 8 GB, modelos de 3B a 4B em Q4.</p>
+<td width="50%" valign="top">
+<a href="https://vlfcandido.github.io/#/projetos/engenharia-de-agentes"><img src="assets/capas/engenharia-de-agentes.jpg" alt="Capa de engenharia de agentes: o mesmo agente em Pydantic, LangGraph e Google ADK, com dados fictícios" width="100%"></a>
+<p><a href="https://vlfcandido.github.io/#/projetos/engenharia-de-agentes"><b>Engenharia de agentes</b></a><br>O mesmo agente em três frameworks, lado a lado, para escolher com base.</p>
 </td>
-<td valign="top">
-<a href="https://vlfcandido.github.io/#/projetos"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/como-eu-integro-escuro.svg"><img src="assets/como-eu-integro-claro.svg" alt="Diagrama: o cliente escreve no WhatsApp, o agente entende o pedido, consulta a agenda, o ERP ou o CRM e devolve a confirmação"></picture></a>
-<p><a href="https://vlfcandido.github.io/#/projetos"><b>Mais projetos no portfólio</b></a><br>Projetos liderados para clientes, com o diagrama de arquitetura de cada um.</p>
+<td width="50%" valign="top">
+<a href="https://vlfcandido.github.io/#/projetos/revisor-ia"><img src="assets/capas/revisor-ia.jpg" alt="Capa do revisor de código com IA e a nota da avaliação, com dados fictícios" width="100%"></a>
+<p><a href="https://vlfcandido.github.io/#/projetos/revisor-ia"><b>Revisor de código com IA</b></a><br>Revisão automática em que a resposta da IA é medida, não só gerada.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vlfcandido.github.io/#/projetos/ia-local"><img src="assets/capas/ia-local.jpg" alt="Capa da IA local com humano no circuito, com dados fictícios" width="100%"></a>
+<p><a href="https://vlfcandido.github.io/#/projetos/ia-local"><b>IA local com humano no circuito</b></a><br>Assistente que roda na sua máquina: o dado não sai e nada executa sem o seu ok.</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://vlfcandido.github.io/#/projetos/benchmark-litellm"><img src="assets/capas/benchmark-litellm.jpg" alt="Capa do benchmark de gateway de IA: latência e custo, com dados fictícios" width="100%"></a>
+<p><a href="https://vlfcandido.github.io/#/projetos/benchmark-litellm"><b>Benchmark de gateway de IA</b></a><br>Latência, erros e custo medidos antes de escolher a arquitetura.</p>
 </td>
 </tr>
 </table>
+
+Cada capa leva o selo de dados fictícios. [Mais projetos e o diagrama de cada um no portfólio](https://vlfcandido.github.io/#/projetos).
 
 </details>
 
@@ -90,11 +92,11 @@ O painel que a equipe abre todo dia precisa ser entendido sem treinamento. No Si
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/vlfcandido/nexus-quant-showcase"><img src="assets/prints/nexus-quant.jpg" alt="Painel do sistema de ordens com curva de patrimônio, livro de ofertas e ordens ao vivo"></a>
+<a href="https://github.com/vlfcandido/nexus-quant-showcase"><img src="assets/capas/nexus-quant.jpg" alt="Capa do sistema de ordens em tempo real, em simulação, com dados fictícios"></a>
 <p><b>Painel do sistema de ordens</b><br>Next.js 15, TanStack Query e Tailwind: ordens, patrimônio e execuções ao vivo, com teste de ponta a ponta no navegador.</p>
 </td>
 <td width="50%" valign="top">
-<img src="assets/prints/app-score.jpg" alt="App de score com medidor em arco e a explicação do cálculo">
+<img src="assets/capas/app-score.jpg" alt="Capa do app de score de crédito: medidor da nota e explicação do cálculo, com dados fictícios">
 <p><b>App de score de crédito</b><br>Next.js 14 instalável no celular: a nota num medidor e, logo abaixo, como ela foi calculada evento a evento. Código privado.</p>
 </td>
 </tr>
