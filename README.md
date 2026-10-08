@@ -29,7 +29,7 @@ Quanto mais fundo, mais detalhe.
 | empresa | o que fiz | onde ler |
 |---|---|---|
 | Sicoob | Lidero tecnicamente a frente de IA do assistente de investimentos, com três agentes. | [MobileTime, 17/07/2026](https://www.mobiletime.com.br/noticias/17/07/2026/sicoob-ia-investimento/) |
-| Contabilizei | Arquiteto sênior de IA; trabalhei no The Concierge, atendimento com IA generativa em Vertex AI. | [Google Cloud, 20/03/2025](https://blog.google/intl/pt-br/produtos/nas-nuvens/google-cloud-90-casos-de-ia-na-america-latina-que-estao-moldando-o-futuro-da-inovacao/) |
+| Contabilizei | Arquiteto sênior de IA; projetei agentes de IA de vendas (SDR) em arquitetura multiagente. | projeto interno, sem publicação |
 | Vertigo | Liderei os projetos de chatbot na Blip, de órgãos públicos a grandes empresas. | [case Prefeitura de Franca](https://materiais.vertigo.com.br/case-chatbot-prefeitura-de-franca-estado-de-sao-paulo) |
 | Wiv | Trabalhei no Waizer, que analisa as conversas dos chatbots e aponta onde travam. | [MobileTime, 12/06/2026](https://www.mobiletime.com.br/noticias/12/06/2026/wiv-5-milhoes/) |
 
@@ -165,7 +165,7 @@ Com IA, o que conta é o que dá para medir: avaliação automática antes de tr
 | quando | onde | o que fiz |
 |---|---|---|
 | 2026 até hoje | Sicoob | Engenheiro de IA sênior. Lidero tecnicamente a frente de IA do assistente de investimentos, com três agentes ([MobileTime](https://www.mobiletime.com.br/noticias/17/07/2026/sicoob-ia-investimento/)). |
-| 2025 a 2026 | Contabilizei | Arquiteto sênior de IA. Trabalhei no The Concierge, atendimento com IA generativa em Vertex AI ([Google Cloud](https://blog.google/intl/pt-br/produtos/nas-nuvens/google-cloud-90-casos-de-ia-na-america-latina-que-estao-moldando-o-futuro-da-inovacao/)). |
+| 2025 a 2026 | Contabilizei | Arquiteto sênior de IA. Projetei e operei agentes de IA de vendas (SDR) em arquitetura multiagente. |
 | 2021 a 2025 | Vertigo | Tech lead de IA conversacional. Liderei os projetos de chatbot na Blip, de órgãos públicos a grandes empresas ([case Franca](https://materiais.vertigo.com.br/case-chatbot-prefeitura-de-franca-estado-de-sao-paulo)). |
 | 2019 a 2021 | Sovis | Full stack sênior: APIs em Java com Spring Boot, front-end em Vue.js e app em Flutter. |
 | 2013 a 2019 | Linx e Festval | Sistemas de varejo e ERP em Java e SQL. |
