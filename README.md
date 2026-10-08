@@ -20,6 +20,35 @@ Construo software há 13 anos e IA aplicada em produção desde 2021. Hoje sou e
 | Vertigo | Liderei os projetos de chatbot na Blip, de órgãos públicos a grandes empresas. | [case Prefeitura de Franca](https://materiais.vertigo.com.br/case-chatbot-prefeitura-de-franca-estado-de-sao-paulo) |
 | Wiv | Trabalhei no Waizer, que analisa as conversas dos chatbots e aponta onde travam. | [MobileTime, 12/06/2026](https://www.mobiletime.com.br/noticias/12/06/2026/wiv-5-milhoes/) |
 
+## Frontend e dashboards
+
+O painel que a equipe abre todo dia precisa ser entendido sem treinamento. Faço a tela em React, Next.js ou Vue.js, conforme o que o sistema já usa, com design system, teclado e leitor de tela funcionando.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/vlfcandido/nexus-quant-showcase"><img src="assets/prints/nexus-quant.jpg" alt="Painel do bot de trading com curva de patrimônio, livro de ofertas e trades ao vivo"></a>
+<p><b>Painel do bot de trading</b><br>Next.js 15, TanStack Query e Tailwind: ordens, patrimônio e trades ao vivo, com teste de ponta a ponta no navegador.</p>
+</td>
+<td width="50%" valign="top">
+<img src="assets/prints/app-score.jpg" alt="App de score com medidor em arco e a explicação do cálculo">
+<p><b>App de score de crédito</b><br>Next.js 14 instalável no celular: a nota num medidor e, logo abaixo, como ela foi calculada evento a evento. Código privado.</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<img src="assets/prints/nexus-clips.jpg" alt="Painel do agente de vídeos curtos com gráficos e contas conectadas">
+<p><b>Painel do agente de vídeo</b><br>React, Vite e Recharts: 10 telas sobre um kit de componentes próprio.</p>
+</td>
+<td valign="top">
+<a href="https://vlfcandido.github.io/#interfaces"><img src="assets/prints/este-site.jpg" alt="Seção Interfaces que eu construo do portfólio, com gráfico, status do pedido e lista filtrável"></a>
+<p><a href="https://vlfcandido.github.io/#interfaces"><b>Interfaces vivas no portfólio</b></a><br>React 19 e Tailwind 4 sobre o design system Maré, feito do zero com tema claro e escuro. Dá para mexer nas peças.</p>
+</td>
+</tr>
+</table>
+
+Front-end de produto em Vue.js na Sovis (2019 a 2021). No AprovaOS, telas em HTMX com um sistema de componentes documentado e validado num protótipo clicável antes do código.
+
 ## Projetos
 
 <table>
@@ -89,7 +118,7 @@ Preço fechado antes de começar, versão de teste em 24 a 48 horas, entrega com
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-escuro.svg">
-  <img alt="Stack. Back-end: Python, FastAPI, Java, Node.js, TypeScript. IA: LangGraph, Google ADK, Vertex AI, Gemini, Claude, RAG, MCP. Dados: PostgreSQL, pgvector, Redis, BigQuery. Entrega: GCP, Docker, CI/CD, testes e avaliação de IA." src="assets/stack-claro.svg" width="100%">
+  <img alt="Stack. Back-end: Python, FastAPI, Java, Node.js, TypeScript. Front-end: React, Next.js, Vue.js, Tailwind, design system, acessibilidade. IA: LangGraph, Google ADK, Vertex AI, Gemini, Claude, RAG, MCP. Dados: PostgreSQL, pgvector, Redis, BigQuery. Entrega: GCP, Docker, CI/CD, testes e avaliação de IA." src="assets/stack-claro.svg" width="100%">
 </picture>
 
 <picture>
