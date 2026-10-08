@@ -29,9 +29,9 @@ Quanto mais fundo, mais detalhe.
 | empresa | o que fiz | onde ler |
 |---|---|---|
 | Sicoob | Lidero tecnicamente a frente de IA do assistente de investimentos, com três agentes. | [MobileTime, 17/07/2026](https://www.mobiletime.com.br/noticias/17/07/2026/sicoob-ia-investimento/) |
-| Contabilizei | Arquiteto sênior de IA; projetei agentes de IA de vendas (SDR) em arquitetura multiagente. | projeto interno, sem publicação |
+| Contabilizei | Vendedor de IA no WhatsApp: um orquestrador e 8 agentes especializados (Google ADK + Gemini no Vertex AI) que qualificam o lead, apresentam planos, simulam taxas e geram a cobrança. Trabalhei no backend em Python, no handoff automático para o time humano e nas integrações com WhatsApp e CRM. | projeto interno, sem publicação |
 | Vertigo | Liderei os projetos de chatbot na Blip, de órgãos públicos a grandes empresas. | [case Prefeitura de Franca](https://materiais.vertigo.com.br/case-chatbot-prefeitura-de-franca-estado-de-sao-paulo) |
-| Wiv | Trabalhei no Waizer, que analisa as conversas dos chatbots e aponta onde travam. | [MobileTime, 12/06/2026](https://www.mobiletime.com.br/noticias/12/06/2026/wiv-5-milhoes/) |
+| Wiv | No Waizer, construí o backend da análise de conversas (APIs e processamento em Python) e a camada de IA que classifica intenção, abandono e qualidade do robô. Também liderei projetos de clientes da Wiv. | [MobileTime, 12/06/2026](https://www.mobiletime.com.br/noticias/12/06/2026/wiv-5-milhoes/) |
 
 ### Projetos
 
@@ -52,39 +52,31 @@ Quanto mais fundo, mais detalhe.
 <p><a href="https://github.com/vlfcandido/engenharia-de-agentes"><b>engenharia-de-agentes</b></a><br>O mesmo agente em Pydantic puro, LangGraph e Google ADK, mais versões multiagente. Roda offline.</p>
 </td>
 <td valign="top">
-<a href="https://github.com/vlfcandido/nexus-quant-showcase"><img src="assets/prints/nexus-quant.jpg" alt="Painel do bot de trading em simulação"></a>
-<p><a href="https://github.com/vlfcandido/nexus-quant-showcase"><b>nexus-quant-showcase</b></a><br>Bot de trading em cripto, em simulação, que conta o que deu errado, inclusive as taxas.</p>
+<a href="https://github.com/vlfcandido/nexus-quant-showcase"><img src="assets/prints/nexus-quant.jpg" alt="Painel do sistema de ordens em tempo real, em simulação"></a>
+<p><a href="https://github.com/vlfcandido/nexus-quant-showcase"><b>nexus-quant-showcase</b></a><br>Sistema de ordens em tempo real que confere cada ordem com a corretora, 24 horas. Cripto, só em simulação, sem lucro; a vitrine conta o que deu errado.</p>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<a href="https://github.com/vlfcandido/nexus-clips"><img src="assets/prints/nexus-clips.jpg" alt="Painel do agente de vídeos curtos"></a>
-<p><a href="https://github.com/vlfcandido/nexus-clips"><b>nexus-clips</b></a><br>Agente que acompanha fontes, escolhe o tema e prepara cortes com legenda. LangGraph e React.</p>
-</td>
 <td valign="top">
 <a href="https://github.com/vlfcandido/benchmark-litellm-sdk-proxy"><img src="assets/prints/benchmark-litellm-sdk-proxy.jpg" alt="Painel do benchmark de latência e custo"></a>
 <p><a href="https://github.com/vlfcandido/benchmark-litellm-sdk-proxy"><b>benchmark-litellm-sdk-proxy</b></a><br>Latência, primeiro token, erros e custo: LiteLLM SDK contra LiteLLM Proxy.</p>
 </td>
-</tr>
-<tr>
 <td valign="top">
 <a href="https://github.com/vlfcandido/varredura-voos"><img src="assets/prints/varredura-voos.jpg" alt="Terminal com a varredura de voos ordenada por duração"></a>
 <p><a href="https://github.com/vlfcandido/varredura-voos"><b>varredura-voos</b></a><br>Busca de passagens que ordena pela duração total da viagem, não só pelo preço.</p>
 </td>
+</tr>
+<tr>
 <td valign="top">
 <a href="https://vlfcandido.github.io/#/projetos/ia-local"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ia-local-escuro.svg"><img src="assets/ia-local-claro.svg" alt="Carta náutica: farol protegendo o porto, com o fluxo pedido, aprovação humana, execução local e auditoria"></picture></a>
 <p><a href="https://vlfcandido.github.io/#/projetos/ia-local"><b>IA local com humano no circuito</b></a><br>Assistente que roda na própria máquina: o dado não sai, cada ação espera aprovação e fica num log de auditoria. M1 de 8 GB, modelos de 3B a 4B em Q4.</p>
 </td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<td valign="top">
 <a href="https://vlfcandido.github.io/#/projetos"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/como-eu-integro-escuro.svg"><img src="assets/como-eu-integro-claro.svg" alt="Diagrama: o cliente escreve no WhatsApp, o agente entende o pedido, consulta a agenda, o ERP ou o CRM e devolve a confirmação"></picture></a>
 <p><a href="https://vlfcandido.github.io/#/projetos"><b>Mais projetos no portfólio</b></a><br>Projetos liderados para clientes, com o diagrama de arquitetura de cada um.</p>
 </td>
 </tr>
 </table>
-
-Também: [previsao-tempo-chatbot](https://github.com/vlfcandido/previsao-tempo-chatbot) e [api-intervalo-premios-filmes](https://github.com/vlfcandido/api-intervalo-premios-filmes).
 
 </details>
 
@@ -98,8 +90,8 @@ O painel que a equipe abre todo dia precisa ser entendido sem treinamento. No Si
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/vlfcandido/nexus-quant-showcase"><img src="assets/prints/nexus-quant.jpg" alt="Painel do bot de trading com curva de patrimônio, livro de ofertas e trades ao vivo"></a>
-<p><b>Painel do bot de trading</b><br>Next.js 15, TanStack Query e Tailwind: ordens, patrimônio e trades ao vivo, com teste de ponta a ponta no navegador.</p>
+<a href="https://github.com/vlfcandido/nexus-quant-showcase"><img src="assets/prints/nexus-quant.jpg" alt="Painel do sistema de ordens com curva de patrimônio, livro de ofertas e ordens ao vivo"></a>
+<p><b>Painel do sistema de ordens</b><br>Next.js 15, TanStack Query e Tailwind: ordens, patrimônio e execuções ao vivo, com teste de ponta a ponta no navegador.</p>
 </td>
 <td width="50%" valign="top">
 <img src="assets/prints/app-score.jpg" alt="App de score com medidor em arco e a explicação do cálculo">
@@ -107,13 +99,9 @@ O painel que a equipe abre todo dia precisa ser entendido sem treinamento. No Si
 </td>
 </tr>
 <tr>
-<td valign="top">
-<img src="assets/prints/nexus-clips.jpg" alt="Painel do agente de vídeos curtos com gráficos e contas conectadas">
-<p><b>Painel do agente de vídeo</b><br>React, Vite e Recharts: 10 telas sobre um kit de componentes próprio.</p>
-</td>
-<td valign="top">
-<a href="https://vlfcandido.github.io/#interfaces"><img src="assets/prints/este-site.jpg" alt="Seção Interfaces que eu construo do portfólio, com gráfico, status do pedido e lista filtrável"></a>
-<p><a href="https://vlfcandido.github.io/#interfaces"><b>Interfaces vivas no portfólio</b></a><br>React 19 e Tailwind 4 sobre o design system Maré, feito do zero com tema claro e escuro. Dá para mexer nas peças.</p>
+<td colspan="2" valign="top">
+<a href="https://vlfcandido.github.io/#/projetos/este-site"><img src="assets/prints/este-site.jpg" alt="Seção Interfaces que eu construo do portfólio, com gráfico, status do pedido e lista filtrável" width="60%"></a>
+<p><a href="https://vlfcandido.github.io/#/projetos/este-site"><b>Interfaces vivas no portfólio</b></a><br>React 19 e Tailwind 4 sobre o design system Maré, feito do zero com tema claro e escuro. Dá para mexer nas peças.</p>
 </td>
 </tr>
 </table>
@@ -164,13 +152,14 @@ Com IA, o que conta é o que dá para medir: avaliação automática antes de tr
 
 | quando | onde | o que fiz |
 |---|---|---|
-| 2026 até hoje | Sicoob | Engenheiro de IA sênior. Lidero tecnicamente a frente de IA do assistente de investimentos, com três agentes ([MobileTime](https://www.mobiletime.com.br/noticias/17/07/2026/sicoob-ia-investimento/)). |
-| 2025 a 2026 | Contabilizei | Arquiteto sênior de IA. Projetei e operei agentes de IA de vendas (SDR) em arquitetura multiagente. |
-| 2021 a 2025 | Vertigo | Tech lead de IA conversacional. Liderei os projetos de chatbot na Blip, de órgãos públicos a grandes empresas ([case Franca](https://materiais.vertigo.com.br/case-chatbot-prefeitura-de-franca-estado-de-sao-paulo)). |
-| 2019 a 2021 | Sovis | Full stack sênior: APIs em Java com Spring Boot, front-end em Vue.js e app em Flutter. |
+| mai/2026 até hoje | Sicoob | Engenheiro de IA sênior e tech lead. Lidero tecnicamente a frente de IA do assistente de investimentos, com três agentes ([MobileTime](https://www.mobiletime.com.br/noticias/17/07/2026/sicoob-ia-investimento/)). |
+| 2025 a mar/2026 | Contabilizei | Arquiteto sênior de IA. Vendedor de IA no WhatsApp com um orquestrador e 8 agentes: backend em Python, handoff para o time humano e integrações com WhatsApp e CRM. |
+| fev/2025 a ago/2025 | Serasa Experian | Engenheiro de IA sênior, em paralelo à Contabilizei. Responsável técnico por um squad que atuou em cerca de 300 aplicações, corrigindo vulnerabilidades e padronizando CI/CD. |
+| set/2021 a jan/2025 | Vertigo | Tech lead de IA conversacional. Liderei os projetos de chatbot na Blip, de órgãos públicos a grandes empresas ([case Franca](https://materiais.vertigo.com.br/case-chatbot-prefeitura-de-franca-estado-de-sao-paulo)). |
+| abr/2019 a set/2021 | Sovis | Full stack sênior: APIs em Java com Spring Boot, front-end em Vue.js e app em Flutter. |
 | 2013 a 2019 | Linx e Festval | Sistemas de varejo e ERP em Java e SQL. |
 
-Também trabalhei no Waizer, da Wiv, que analisa as conversas dos chatbots e aponta onde travam ([MobileTime](https://www.mobiletime.com.br/noticias/12/06/2026/wiv-5-milhoes/)).
+Em projetos freelance para a Wiv, construí o backend e a camada de IA do Waizer, que analisa as conversas dos chatbots e aponta onde travam ([MobileTime](https://www.mobiletime.com.br/noticias/12/06/2026/wiv-5-milhoes/)).
 
 </details>
 
