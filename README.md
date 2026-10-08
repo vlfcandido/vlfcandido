@@ -1,7 +1,7 @@
-<picture>
+<a href="https://www.linkedin.com/in/viniciusf-candido"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/cabecalho-escuro.svg">
-  <img alt="Vinicius Candido, engenheiro de software sênior: chatbots, automações, sistemas e IA" src="assets/cabecalho-claro.svg" width="100%">
-</picture>
+  <img alt="Vinicius Candido, engenheiro de software sênior: chatbots, automações e sistemas com IA. Falar comigo no LinkedIn" src="assets/cabecalho-claro.svg" width="100%">
+</picture></a>
 
 Construo software há 13 anos e IA aplicada em produção desde 2021. Hoje sou engenheiro de IA sênior no Sicoob, onde lidero tecnicamente a frente de IA do assistente de investimentos. Antes, fui arquiteto sênior de IA na Contabilizei, liderei os projetos de chatbot Blip da Vertigo e trabalhei no Waizer, da Wiv.
 
