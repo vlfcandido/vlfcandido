@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Carta náutica em tema escuro: farol protegendo o porto, com o fluxo pedido, aprovação, execução local e auditoria">
+  <rect width="800" height="500" fill="#0b1e25"/>
+  <g fill="none" stroke="#6cc6d6" stroke-width="1.2" stroke-linecap="round" opacity="0.4">
+    <path d="M60 150 C 180 110, 300 190, 420 150 S 660 110, 760 160"/>
+    <path d="M60 200 C 190 160, 300 240, 430 200 S 660 160, 760 210"/>
+    <path d="M60 250 C 190 215, 300 290, 430 250 S 660 215, 760 260"/>
+    <path d="M60 300 C 190 268, 300 340, 430 300 S 660 268, 760 310"/>
+  </g>
+  <g fill="none" stroke="#6cc6d6" stroke-width="1.4" opacity="0.7">
+    <path d="M300 380 C 300 330, 360 300, 420 300 C 500 300, 560 340, 560 380"/>
+    <path d="M330 388 C 330 350, 375 328, 420 328 C 480 328, 525 352, 525 388"/>
+  </g>
+  <path d="M60 408 C 220 392, 320 400, 420 398 C 560 395, 660 406, 760 400" fill="none" stroke="#e3cf9f" stroke-width="6" stroke-linecap="round" opacity="0.85"/>
+  <g fill="none" stroke="#e3cf9f" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M405 150 L398 300 L442 300 L435 150 Z"/>
+    <path d="M400 192 L440 192 M401 232 L439 232"/>
+    <path d="M396 150 L444 150 L438 134 L402 134 Z"/>
+    <path d="M414 134 L414 118 L426 118 L426 134"/>
+    <circle cx="420" cy="110" r="5"/>
+  </g>
+  <path d="M360 120 A 150 150 0 0 1 480 120" fill="none" stroke="#ff7a90" stroke-width="2" stroke-dasharray="2 7" stroke-linecap="round"/>
+  <g fill="none" stroke="#e3cf9f" stroke-width="2.2" stroke-linecap="round">
+    <path d="M250 345 l12 0 -4 -26 -4 0 Z"/>
+    <path d="M256 319 l0 -10"/>
+    <circle cx="256" cy="305" r="4" fill="#ff7a90" stroke="none"/>
+  </g>
+  <g stroke="#6cc6d6" stroke-width="1.6" fill="#0b1e25">
+    <line x1="150" y1="452" x2="650" y2="452"/>
+    <circle cx="150" cy="452" r="5"/>
+    <circle cx="340" cy="452" r="7" fill="#ff7a90" stroke="#ff7a90"/>
+    <circle cx="500" cy="452" r="5"/>
+    <circle cx="650" cy="452" r="5"/>
+  </g>
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#e3cf9f">
+    <text x="150" y="480" text-anchor="middle">pedido</text>
+    <text x="340" y="480" text-anchor="middle" fill="#ff7a90">aprovação humana</text>
+    <text x="500" y="480" text-anchor="middle">execução local</text>
+    <text x="650" y="480" text-anchor="middle">auditoria</text>
+  </g>
+  <text x="60" y="70" font-family="Georgia, 'Times New Roman', serif" font-size="26" fill="#e3cf9f">ia local, humano no circuito</text>
+  <text x="60" y="96" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#6cc6d6">o dado não sai do aparelho · nada roda sem o seu ok</text>
+</svg>

@@ -72,6 +72,12 @@ Quanto mais fundo, mais detalhe.
 <p><a href="https://github.com/vlfcandido/varredura-voos"><b>varredura-voos</b></a><br>Busca de passagens que ordena pela duração total da viagem, não só pelo preço.</p>
 </td>
 <td valign="top">
+<a href="https://vlfcandido.github.io/#/projetos/ia-local"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ia-local-escuro.svg"><img src="assets/ia-local-claro.svg" alt="Carta náutica: farol protegendo o porto, com o fluxo pedido, aprovação humana, execução local e auditoria"></picture></a>
+<p><a href="https://vlfcandido.github.io/#/projetos/ia-local"><b>IA local com humano no circuito</b></a><br>Assistente que roda na própria máquina: o dado não sai, cada ação espera aprovação e fica num log de auditoria. M1 de 8 GB, modelos de 3B a 4B em Q4.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 <a href="https://vlfcandido.github.io/#/projetos"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/como-eu-integro-escuro.svg"><img src="assets/como-eu-integro-claro.svg" alt="Diagrama: o cliente escreve no WhatsApp, o agente entende o pedido, consulta a agenda, o ERP ou o CRM e devolve a confirmação"></picture></a>
 <p><a href="https://vlfcandido.github.io/#/projetos"><b>Mais projetos no portfólio</b></a><br>Projetos liderados para clientes, com o diagrama de arquitetura de cada um.</p>
 </td>
@@ -138,6 +144,13 @@ Resposta com fonte e com nota: a IA busca antes de responder, e outra etapa dá 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/agente-rag-escuro.svg">
   <img alt="Diagrama do revisor de código: o código chega pela API ou por MCP, busca boas práticas no pgvector e gera a revisão; um juiz dá nota e, abaixo de 7, a revisão é escrita de novo" src="assets/agente-rag-claro.svg" width="100%">
+</picture>
+
+Nada roda sem o seu ok: o modelo propõe, uma pessoa aprova, edita ou nega, e só então executa, com tudo registrado. É o modo agente da IA local, que roda inteira na máquina.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/fluxo-ia-local-escuro.svg">
+  <img alt="Diagrama: você pede em linguagem natural, o modelo local propõe um comando ou um arquivo, a aprovação humana decide (negado, o modelo tenta outro caminho), a execução local devolve a saída e tudo vai para o log de auditoria" src="assets/fluxo-ia-local-claro.svg" width="100%">
 </picture>
 
 Com IA, o que conta é o que dá para medir: avaliação automática antes de trocar prompt ou modelo.
